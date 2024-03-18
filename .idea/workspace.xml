@@ -5,12 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1c03286c-e164-4171-8f23-05bd2c1b3ab4" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/api/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/api/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/src/Db.java" beforeDir="false" afterPath="$PROJECT_DIR$/db/src/Db.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/src/DbSetting.java" beforeDir="false" afterPath="$PROJECT_DIR$/db/src/DbSetting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/src/MyEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/db/src/MyEntity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/src/MyService.java" beforeDir="false" afterPath="$PROJECT_DIR$/service/src/MyService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
